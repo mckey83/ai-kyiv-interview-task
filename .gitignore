@@ -1,0 +1,11 @@
+*.class
+*.log
+.idea
+.bsp
+
+/target
+/project/target
+/training_set
+movie_titles.txt
+output-report.csv
+
